@@ -1,17 +1,26 @@
 Project Description
 This project aims to containerize an application using Docker, set up a private Docker registry on Docker Hub for storing Docker images, and establish an end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins for deploying the application.
+
+
+
+
 Table of Contents
 Prerequisites
 Getting Started
 Dockerize the Application
 Set Up Private Docker Registry
 Jenkins CI/CD Pipeline
+
+
+
 Prerequisites
 Before you begin, ensure you have the following tools and accounts set up:
 Docker: Install Docker on your local machine.
 Docker Hub Account: Create an account on Docker Hub.
 Git: Version control tool for managing your codebase.
 Jenkins: Install and configure Jenkins on your preferred server.
+
+
 Getting Started
 Fork the repository
 Jenkins CI/CD Pipeline
