@@ -65,6 +65,7 @@ Connect to your Git repository.
 Build the Docker image using the Dockerfile.
 
 
+
 Push the Docker image to the private Docker registry on Docker Hub.
 
 
@@ -72,3 +73,9 @@ Implement a webhook or schedule to trigger the pipeline on every code push.
 
 
 Add a deployment step to pull the latest Docker image from the private registry and deploy it to your target environment (e.g., staging or production).
+
+
+<img width="1380" alt="Screenshot 2023-08-17 at 1 00 00 PM" src="https://github.com/Tushar240503/Dockerize-Application-pipeline/assets/98592305/a2802921-97af-44f6-91b8-f99624f77462">
+
+
+
